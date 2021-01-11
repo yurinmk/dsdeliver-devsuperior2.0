@@ -1,4 +1,3 @@
-import { homedir } from "os";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Orders from "./Orders";
 import Home from "./Home";
